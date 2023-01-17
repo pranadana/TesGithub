@@ -2,4 +2,4 @@ tes 123
 tes 345
 HALO SEMUA
 SEMANGATTTT 
-🤍🤍🤍🤍🤍🤍🤍🤍🤍
+CodeSpaces adalah fitur dari GitHub yang memungkinkan pengguna untuk menjalankan lingkungan pengembangan di atas platform GitHub. Ini menyediakan akses ke mesin virtual atau container yang dapat digunakan untuk menjalankan kode, menguji, dan menyelesaikan tugas pengembangan tanpa perlu mengkonfigurasi perangkat keras atau perangkat lunak di komputer lokal. CodeSpaces juga menyediakan integrasi dengan berbagai alat pengembangan seperti editor teks, perpustakaan, dan framework untuk memudahkan pengembangan aplikasi.
